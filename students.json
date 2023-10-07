@@ -1,0 +1,38 @@
+[
+  {
+    "student": {
+      "firstname": "Olga",
+      "subject": "Math",
+      "id": "101",
+      "marks": "9",
+      "lastname": "Criclivaia"
+    }
+  },
+  {
+    "student": {
+      "firstname": "Valentina",
+      "subject": "Chemistry",
+      "id": "102",
+      "marks": "8",
+      "lastname": "Advahova"
+    }
+  },
+  {
+    "student": {
+      "firstname": "Alina",
+      "subject": "English",
+      "id": "103",
+      "marks": "10",
+      "lastname": "Gutul"
+    }
+  },
+  {
+    "student": {
+      "firstname": "Nadejda",
+      "subject": "Physics",
+      "id": "104",
+      "marks": "7",
+      "lastname": "Ianciuc"
+    }
+  }
+]
